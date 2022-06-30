@@ -1,0 +1,7 @@
+人脸框选功能
+
+参考：/static/images/exp/g_box.png
+
+正方形方框
+红色线条
+粗细
